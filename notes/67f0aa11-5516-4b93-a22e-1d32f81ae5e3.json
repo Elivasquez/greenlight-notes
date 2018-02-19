@@ -1,0 +1,1 @@
+{"title":"constants","message":"Constants are containers in which their values can never change\nThey are blocked scoped and hoisted to the top of their block scope\nConstants must be assigned a value immediately they cannot be left unassigned or undefined\n","id":"67f0aa11-5516-4b93-a22e-1d32f81ae5e3","date":"2018-02-19T01:23:45.664Z"}
