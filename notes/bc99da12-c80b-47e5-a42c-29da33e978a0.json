@@ -1,0 +1,1 @@
+{"title":"hoisting review","message":"Steps for Hoisting:\n* Hoist Function declarations, including definitions\n* Hoist var declarations\n* execute code as written starting from top\n","id":"bc99da12-c80b-47e5-a42c-29da33e978a0","date":"2018-03-12T19:49:58.410Z"}
